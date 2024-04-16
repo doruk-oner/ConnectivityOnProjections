@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/578652292.svg)](https://zenodo.org/doi/10.5281/zenodo.10982527)
 # ConnectivityOnProjections
 
 Official repo for the MICCAI 2022 paper: [Enforcing connectivity of 3D linear structures using their 2D projections](https://arxiv.org/pdf/2207.06832.pdf). Doruk Oner, Hussein Osman, Mateusz Kozinski, Pascal Fua.
