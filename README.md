@@ -12,3 +12,4 @@ Official repo for the MICCAI 2022 paper: [Enforcing connectivity of 3D linear st
 
 **Fig. 2.** Disconnections in 3D linear structures appear in at least two out of three orthogonal projections, unless the structure is occluded. 
 
+This project was supported, in part, by the FWF Austrian Science Fund's Lise Meitner Program, project number M3374.
